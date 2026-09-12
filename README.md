@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Romton4ik
 
-<!--
-**Romton4ik/Romton4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🏫 Web Development Instructor & IT Mentor
 
-Here are some ideas to get you started:
+Я викладач з веброзробки. Навчаю дітей та підлітків створювати сучасні сайти, розбиратися в коді та втілювати свої ідеї в життя — від перших тегів до повноцінних вебпроєктів!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Стек технологій & Інструменти
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS
+* **Backend & Databases:** Node.js, SQL, MariaDB
+* **Tools & Environment:** Git, GitHub, VS Code, HeidiSQL, npm, OBS Studio, Google Meet, Windows, Kali Linux
+
+---
+
+### 📌 Про мене в декількох рядках
+
+* 🔭 **Наразі працюю над:** Навчальними програмами з веброзробки та інтерактивними курсами для студентів.
+* 💬 **Питайте мене про:** HTML, CSS, JS, SQL, інтеграцію вебтехнологій та основи контролю версій Git.
+* 🚀 **Моя мета:** Пояснювати складні концепції розробки простою, зрозумілою та цікавою мовою.
