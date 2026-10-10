@@ -8,9 +8,9 @@
 
 ### 💻 Стек технологій & Інструменти
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS
-* **Backend & Databases:** Node.js, SQL, MariaDB
-* **Tools & Environment:** Git, GitHub, VS Code, HeidiSQL, npm, OBS Studio, Google Meet, Windows, Kali Linux
+* **Frontend:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `React`, `Next.js`, `Tailwind CSS`
+* **Backend & Databases:** `Node.js`, `SQL`, `MariaDB`
+* **Tools & Environment:** `Git`, `GitHub`, `VS Code`, `HeidiSQL`, `npm`, `OBS Studio`, `Google Meet`, `Windows`, `Kali Linux`
 
 ---
 
